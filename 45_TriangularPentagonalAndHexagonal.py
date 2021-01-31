@@ -86,5 +86,4 @@ def solve():
       n = n + 1
     return t
 
-
 print(solve())
